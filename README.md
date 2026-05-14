@@ -1,4 +1,4 @@
-# 🍇 TheBerryHost 每日自动签到
+# 🍇 TheBerryHost 每日自动签到 
 
 自动每天领取 TheBerryHost Discord 服务器的每日 BerryCoins 奖励。
 
